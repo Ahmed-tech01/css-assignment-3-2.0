@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&family=Josefin+Slab:ital,wght@0,500;1,400&family=Lemon&family=Noto+Nastaliq+Urdu:wght@500;600;700&family=Source+Code+Pro&display=swap");
+body {
+  background-color: rgb(140, 196, 246);
+}
+h1 {
+  color: blue;
+  background-color: aqua;
+  font-family: sans-serif;
+  text-align: center;
+}
+#para1 {
+  font-family: "Handlee", cursive;
+}
+#para2 {
+  font-family: "Josefin Slab", serif;
+  font-weight: 500;
+}
+#para3 {
+  font-family: "Source Code Pro", monospace;
+}
+#para4 {
+  font-family: "Lemon", serif;
+}
+h2 {
+  background-color: rgb(115, 115, 235);
+  text-align: center;
+  font-family: "Noto Nastaliq Urdu", serif;
+}
